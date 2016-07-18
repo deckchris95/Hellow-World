@@ -1,5 +1,6 @@
 # Hellow-World
-Sample Repository.
 
 
-I like dogs.
+Hi!!
+
+I like dogs. And Cats.
